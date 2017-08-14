@@ -17,10 +17,10 @@ Happy learning!
 
 ## Course Syllabus
 
-- [ ] **Lecture 1:** Intro to computer vision, historical context
-   - [ ] [Video](https://youtu.be/NfnWJUyUJYU)
-   - [ ] [Slides](slides/lecture1.pdf)
-- [ ] **Lecture 2:** Image classification and the data-driven
+- [x] **Lecture 1:** Intro to computer vision, historical context
+   - [x] [Video](https://youtu.be/NfnWJUyUJYU)
+   - [x] [Slides](slides/lecture1.pdf)
+- [x] **Lecture 2:** Image classification and the data-driven
       approach; k-nearest neighbors; Linear classification I
    - [ ] [Video](https://youtu.be/8inugqHkfvE)
    - [ ] [Slides](slides/lecture2.pdf)
